@@ -1,0 +1,7 @@
+int main() {
+    _name = "jawad"#
+    print("My Name is", _name)#
+    if _name print(hello jadi)#
+    _a = 1 + 2#
+    return 0#
+}
